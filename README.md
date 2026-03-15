@@ -1,4 +1,4 @@
-# 50 AI Prompts pour le Classement ATP
+# 50-ai-prompts-pour-le-classement-atp
 
 Améliorez vos connaissances sur le classement ATP avec ces 50 prompts AI uniques et utiles. Conçus pour fonctionner avec ChatGPT et Claude, ces prompts vous aideront à mieux comprendre le monde du ten
 
@@ -6,7 +6,7 @@ Améliorez vos connaissances sur le classement ATP avec ces 50 prompts AI unique
 
 | Property | Value |
 |---|---|
-| Records | 44 |
+| Records | 3 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,7 +14,7 @@ Améliorez vos connaissances sur le classement ATP avec ces 50 prompts AI unique
 ## Sample
 
 ```json
-"Qui est actuellement le numéro un mondial en simple messieurs ?"
+Keys: title, description, price
 ```
 
 ## Usage
